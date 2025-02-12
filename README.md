@@ -31,9 +31,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/j4nn/j4nn/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
