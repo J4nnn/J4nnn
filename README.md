@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning cybersecurity<br>🎯 Goals: To hack the matrix.<br>🎲 Fun fact: I'm not sure what I'm doing, but I'm doing it.</p>
+<p align="left">📚 I'm currently learning cybersecurity<br>🎯 Goals: To hack the matrix.<br>🎲 Fun fact: I'm not sure what I'm doing, but I'm doing it.</p>
 
 ###
 
