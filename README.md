@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning cybersecurity<br>🎯 Goals: To hack the matrix.<br>🎲 Fun fact: 🛏️ My sleep schedule is written in JavaScript: unpredictable and buggy.</p>
+<p align="left">📚 I'm currently learning cybersecurity<br>🎯 Goals: To hack the matrix.<br>🛏️ My sleep schedule is written in JavaScript: unpredictable and buggy.</p>
 
 ###
 
