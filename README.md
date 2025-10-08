@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an e-commerce focusing on microservices architecture.<br>👯 I’m looking to collaborate on Open-source projects related to the Gnome environment, especially those involving GTK/libadwaita.<br>🤝 I’m looking for help with mastering Docker.<br>🌱 I’m currently learning DevOps, parallel programming and Kubernetes.<br>💬 Ask me about Python 🐍, Linux 🐧 and Docker.<br><br>
+🔭 I’m currently working on an e-commerce focusing on microservices architecture.<br>👯 I’m looking to collaborate on Open-source projects related to the Gnome environment, especially those involving GTK/libadwaita.<br>🤝 I’m looking for help with mastering Docker.<br>🌱 I’m currently learning DevOps, parallel programming and Kubernetes.<br>💬 Ask me about Python🐍, Linux🐧 and Docker🐋.<br><br>
 
 
 ## 🌐 Socials:
