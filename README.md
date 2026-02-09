@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👯 I’m looking to collaborate on **FOSS projects.**
-
 - 💬 Ask me about **Linux**
 
 - 📫 How to reach me **j4nn.dev@gmail.com**
