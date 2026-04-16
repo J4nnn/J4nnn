@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular** _(also here)_
 
-- 💬 Ask me about **Linux**
+- 💬 Ask me about **Linux** & **Docker**
 
 - 📫 How to reach me **j4nn.dev@gmail.com**
 
