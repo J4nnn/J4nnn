@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Janer+%F0%9F%91%8B;CS+Student+%26+Frontend+Dev;Linux+%26+Docker+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F3B3E4&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Janer+%F0%9F%91%8B;CS+Student+%26+Frontend+Dev;Linux+%26+Docker+Enthusiast)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=J4nnn&style=flat-square&color=6E57F7" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=J4nnn&style=flat-square&color=F3B3E4" alt="profile views"/>
 
 </div>
 
@@ -46,14 +46,13 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=J4nnn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4nnn&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=J4nnn&show_icons=true&hide_border=true&count_private=true&bg_color=171216&title_color=F3B3E4&text_color=ECDFE5&icon_color=F5B9A5&border_color=4E444B" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=J4nnn&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=J4nnn&hide_border=true&background=171216&stroke=4E444B&ring=F3B3E4&fire=F5B9A5&currStreakNum=ECDFE5&sideNums=ECDFE5&currStreakLabel=F3B3E4&sideLabels=DBBED2&dates=9A8D95)](https://git.io/streak-stats)
 
 </div>
 
