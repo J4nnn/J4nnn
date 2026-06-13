@@ -10,7 +10,7 @@
 
 ### About me
 
-- Building my own **blog** from scratch _(slowly but surely)_ 🚧
+- Building my own **website** from scratch _(slowly but surely)_ 🚧
 - Currently leveling up with **Angular** on the frontend 📐
 - Comfortable in the terminal — ask me about **Linux** or **Docker** 🐧🐳
 - Always looking for an excuse to spin up a new container
