@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F3B3E4&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Janer+%F0%9F%91%8B;CS+Student+%26+Frontend+Dev;Linux+%26+Docker+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF8C82&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Janer+%F0%9F%91%8B;CS+Student+%26+Frontend+Dev;Linux+%26+Docker+Enthusiast)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=J4nnn&style=flat-square&color=F3B3E4" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=J4nnn&style=flat-square&color=FF8C82" alt="profile views"/>
 
 </div>
 
