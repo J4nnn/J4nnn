@@ -10,27 +10,17 @@
 
 <br />
 
-### About
+### 👋 About me
 
-- Final-year **Systems Engineering** student at **Universidad Industrial de Santander (UIS)** in Bucaramanga, Colombia, with hands-on experience in software development, QA, and systems administration.
-- Currently working as a **QA Analyst** at UIS — previously **Front-end Developer** (Angular) and **Systems Administrator** (OpenStack private cloud research on Ubuntu).
-- Over **6 years using Linux** as a daily driver — comfortable in the terminal and container workflows.
-- **3rd place nationwide** in *"Datos a la U"* (MinTIC, 2024).
-- Always looking for an excuse to grab a cup of coffee ☕️
-
----
-
-### Projects
-
-| Project | Overview | Stack |
-| :--- | :--- | :--- |
-| **[j4nn.dev](https://www.j4nn.dev)** | Bilingual (EN / ES) personal portfolio with prerendering and adaptive GNOME/Adwaita light & dark themes. | `Angular 22` · `Taiga UI` · `TypeScript` |
-| **[COMA](https://www.j4nn.dev/#projects)** | Institutional platform for UIS faculties (*Calumet R&D group*) managing theses, news, and communications; migrating from legacy Java/JSP to a modular monolith. | `Java` · `JSP` · `Spring Boot` · `React` · `Docker` |
-| **[SentIA](https://www.j4nn.dev/#projects)** | Backend API and data layer for an AI-based emotional support chatbot. | `Python` · `FastAPI` · `Firebase` |
+- Final-year **Systems Engineering** student at **UIS** & **QA Analyst** 🎓🧪
+- Built my own website from scratch — check it out at **[j4nn.dev](https://www.j4nn.dev)** 🌐
+- Working with **Angular** on the frontend and **Python / Java** on the backend 📐⚙️
+- Over 6 years on **Linux** — comfortable in the terminal, ask me about **Linux** or **Docker** 🐧🐳
+- Always looking for an excuse to take a cup of coffee ☕️
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**
 
@@ -63,7 +53,7 @@
 
 ---
 
-### Connect
+### 📫 Connect
 
 [![j4nn.dev](https://img.shields.io/badge/j4nn.dev-1c71d8?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTUgN2w2IDUtNiA1IiBmaWxsPSJub25lIiBzdHJva2U9IiNhNmUzYTEiIHN0cm9rZS13aWR0aD0iMi44IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTMgMThoNiIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPC9zdmc%2B)](https://www.j4nn.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2e2e32?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/j4nn/)
