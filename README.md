@@ -37,7 +37,6 @@
 ![Django](https://img.shields.io/badge/Django-813d9c?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-813d9c?style=flat&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-813d9c?style=flat&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-813d9c?style=flat&logo=react&logoColor=white)
 
 **Databases**
 
