@@ -52,11 +52,11 @@
 
 ---
 
-### 🎧 Now playing
-
-<a href="https://open.spotify.com/user/fb01379r4eb0x8tcn79rid2ft" target="_blank" rel="noopener noreferrer">
-  <img alt="Spotify — currently playing" src="https://spotify-github-profile.kittinanx.com/api/view?uid=fb01379r4eb0x8tcn79rid2ft&cover_image=true&theme=novatorem&show_offline=true&background_color=1d1d20&interchange=true&profanity=false&hide_remaster=false&bar_color=62a0ea&bar_color_cover=true&mode=dark&border_radius=18" />
-</a>
+<div align="center">
+  <a href="https://open.spotify.com/user/fb01379r4eb0x8tcn79rid2ft" target="_blank" rel="noopener noreferrer">
+    <img alt="Spotify — currently playing" src="https://spotify-github-profile.kittinanx.com/api/view?uid=fb01379r4eb0x8tcn79rid2ft&cover_image=true&theme=novatorem&show_offline=true&background_color=1d1d20&interchange=true&profanity=false&hide_remaster=false&bar_color=62a0ea&bar_color_cover=true&mode=dark&border_radius=18" />
+  </a>
+</div>
 
 ---
 
