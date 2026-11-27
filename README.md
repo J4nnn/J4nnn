@@ -13,7 +13,6 @@
 ### 👋 About me
 
 - Final-year **Systems Engineering** student at **UIS** & **QA Analyst** 🎓🧪
-- Built my own website from scratch — check it out at **[j4nn.dev](https://www.j4nn.dev)** 🌐
 - Working with **Angular** on the frontend and **Python / Java** on the backend 📐⚙️
 - Over 6 years on **Linux** — comfortable in the terminal, ask me about **Linux** or **Docker** 🐧🐳
 - Always looking for an excuse to take a cup of coffee ☕️
