@@ -52,6 +52,14 @@
 
 ---
 
+### 🎧 Now playing
+
+<a href="https://open.spotify.com/user/fb01379r4eb0x8tcn79rid2ft" target="_blank" rel="noopener noreferrer">
+  <img alt="Spotify — currently playing" src="https://spotify-github-profile.kittinanx.com/api/view?uid=fb01379r4eb0x8tcn79rid2ft&cover_image=true&theme=novatorem&show_offline=true&background_color=1d1d20&interchange=true&profanity=false&hide_remaster=false&bar_color=62a0ea&bar_color_cover=true&mode=dark&border_radius=18" />
+</a>
+
+---
+
 ### 📫 Connect
 
 [![j4nn.dev](https://img.shields.io/badge/j4nn.dev-1c71d8?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTUgN2w2IDUtNiA1IiBmaWxsPSJub25lIiBzdHJva2U9IiNhNmUzYTEiIHN0cm9rZS13aWR0aD0iMi44IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTMgMThoNiIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPC9zdmc%2B)](https://www.j4nn.dev)
